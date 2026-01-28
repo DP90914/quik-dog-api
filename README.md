@@ -9,8 +9,14 @@
 
 * ## Por que utilizá-lo
     O Qwik restaura a aplicação apartir de um ponto especifico, apenas executando o codigo necessario
-* ## Em quais cenários ele não é indicado
 
+* ## Em quais cenários ele não é indicado
+    * Necessidade de utilizar bibliotecas especificas, como:
+        * Gráficos complexos, 
+        * Mapas, 
+        * editores de texto rico
+    * Curva de Aprendizado e Prazos Curtos
+        Se sua equipe domina React ou Vue e o prazo está apertado, a "mentalidade Qwik" pode gerar bugs difíceis de depurar no início.
 
 # Instalação
 
