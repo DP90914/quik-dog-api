@@ -61,6 +61,10 @@
   * Tela de Busca
     <img width="1919" height="908" alt="Captura de tela 2026-02-04 142429" src="https://github.com/user-attachments/assets/58d77873-ba51-4aed-8902-265563481374" />
 
+  * Tela De Resultado
+    <img width="1885" height="827" alt="Captura de tela 2026-02-04 151052" src="https://github.com/user-attachments/assets/8e265c14-2978-4965-bce8-8d731da982d2" />
+
+
         
 
 * ## Como executar a aplicação localmente
