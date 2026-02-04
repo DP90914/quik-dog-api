@@ -29,11 +29,14 @@
 
     Agora deve ser escrito no terminal de seu IDE o seguinte comando:
     - npm create qwik@latest
+    <img width="418" height="32" alt="Captura de tela 2026-02-04 145027" src="https://github.com/user-attachments/assets/93ffd89c-8bae-45c9-a936-468587eec3b1" />
 
     ao realizar esta ação será necessário instalar dentro do próprio projeto o pacote create-qwik@1.18.0
     (sujeito a atualizações)
+    <img width="428" height="80" alt="Captura de tela 2026-02-04 145049" src="https://github.com/user-attachments/assets/a44fca48-662d-4f20-a61c-89b0350bbd6d" />
 
     após a confirmação e instalação do pacote será necessário pressionar a tecla . ou ./ para que seja criado um projeto dentro do seu repositório, se o repositório já tiver conteúdo dentro você precisará apagar o que tem dentro ou criar um repositório vazio.
+    <img width="611" height="343" alt="Captura de tela 2026-02-04 145124" src="https://github.com/user-attachments/assets/7320b214-3a2c-4a84-babf-b87a80b44daa" />
 
     Então você deverá selecionar um dos ambientes a seguir:
     * Empty App (Qwik City + Qwik):
@@ -47,9 +50,12 @@
 
     * E2e Library:
         Específica para projetos de testes de ponta a ponta.
+    <img width="454" height="130" alt="Captura de tela 2026-02-04 145143" src="https://github.com/user-attachments/assets/8fdc7c00-8aef-4326-8930-6fbec850908d" />
 
     Ao selecionar a sua opção, você deverá baixar quaisquer que sejam as dependências requeridas para usar o ambiente escolhido na sua aplicação.
     Após a instalação das dependências, o ambiente esta pronto para o start na codagem do seu web site.
+    <img width="373" height="109" alt="Captura de tela 2026-02-04 145159" src="https://github.com/user-attachments/assets/52bd54cc-f36c-404e-b166-936cbe4dac70" />
+    <img width="429" height="433" alt="Captura de tela 2026-02-04 145225" src="https://github.com/user-attachments/assets/27f61cfa-e3a9-45cc-bcb4-792d0068a2f0" />
 
   * ## Prints do site web
   * Tela de Busca
