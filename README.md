@@ -51,6 +51,12 @@
     Ao selecionar a sua opção, você deverá baixar quaisquer que sejam as dependências requeridas para usar o ambiente escolhido na sua aplicação.
     Após a instalação das dependências, o ambiente esta pronto para o start na codagem do seu web site.
 
+  * ## Prints do site web
+  * Tela de Busca
+    <img width="1919" height="908" alt="Captura de tela 2026-02-04 142429" src="https://github.com/user-attachments/assets/58d77873-ba51-4aed-8902-265563481374" />
+
+        
+
 * ## Como executar a aplicação localmente
 
 para iniciar a sua aplicação utilize o comando 
